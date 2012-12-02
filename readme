@@ -1,0 +1,3 @@
+Small command line application to track the location of a PC via GPS and send the location to the owner on request via SMS.
+
+This application was written to work with a Huawei E220 3G modem and may need reworking for other brands/models.
